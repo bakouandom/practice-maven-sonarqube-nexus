@@ -11,6 +11,9 @@ public class DemoApplication {
 		String name = "domi";
 
 		system.out.println(name);
+
+		Integer age ="20";
+		system.out.println(age = 5);
 	}
 
 }
